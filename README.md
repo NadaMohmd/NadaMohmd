@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nada Fahmy</h1>
 <h3 align="center">A passionate Ai & data scientist Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **more about data science**
+- 🌱 I’m currently learning **more about data science & ai & data analysis**
 
-- 💬 Ask me about **machine learning& deep learning & data science**
+- 💬 Ask me about **machine learning & deep learning & data science**
 
 - 📫 How to reach me **nadafahmy423@gmail.com**
 
